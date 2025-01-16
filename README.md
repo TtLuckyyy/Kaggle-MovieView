@@ -1,7 +1,6 @@
 # Kaggle-MovieView
-Kaggle平台MovieView竞赛Baseline模型，
+Kaggle平台MovieView竞赛的一个Baseline模型.
 > 竞赛网址：(https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
-以下是一个适合开源到 GitHub 的项目说明文件（README.md）：
 
 ```
 markdown复制编辑# 情感分析模型（Sentiment Analysis Model）
