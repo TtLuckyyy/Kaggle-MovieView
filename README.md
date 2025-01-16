@@ -2,13 +2,13 @@
 Kaggle平台MovieView竞赛的一个Baseline模型.
 > 竞赛网址：(https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
 
-```
-markdown复制编辑# 情感分析模型（Sentiment Analysis Model）
+
+# 情感分析模型（Sentiment Analysis Model）
 
 该项目是一个基于深度学习的情感分析模型，使用了 Transformer 和 LSTM 结合的架构，旨在对电影评论数据进行情感分类（正面或负面）。本项目使用了 PyTorch 框架实现，包含了数据预处理、模型训练、评估和预测等模块，适合用于学习和研究 NLP 任务中的情感分析。
 
 
-markdown复制编辑
+
 ## 环境要求
 
 此项目使用 Python 3 及 PyTorch 框架开发，建议在虚拟环境中运行，并安装以下依赖：
