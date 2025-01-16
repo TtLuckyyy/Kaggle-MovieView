@@ -1,0 +1,11 @@
+PhraseId	SentenceId	Phrase	Sentiment
+1	1	A series of escapades demonstrating the adage that what is good for the goose is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story .	1
+2	1	A series of escapades demonstrating the adage that what is good for the goose	2
+3	1	A series	2
+4	1	A	2
+5	1	series	2
+6	1	of escapades demonstrating the adage that what is good for the goose	2
+7	1	of	2
+8	1	escapades demonstrating the adage that what is good for the goose	2
+9	1	escapades	2
+10	1	demonstrating the adage that what is good for the goose	2
